@@ -8,5 +8,6 @@
         public string Cpf { get; set; }
         public string Curso { get; set; }
         public string Telefone { get; set; }
+        public string Teste { get; set; }
     }
 }
